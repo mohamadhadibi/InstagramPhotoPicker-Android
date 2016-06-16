@@ -4,6 +4,10 @@ A Instagram image picker providing a simple UI for a user to pick photos from th
 
 It takes care of all authentication with Instagram as and when necessary. It will automatically renew auth tokens or prompt the user to re-authorize the app if needed. 
 
+##I am going to make these customizations to this library :
+1- ability for programers to define minimize and maximize photos which user can choose.
+2- ability for programers to define appbar color.
+
 ## Video Preview
 
 [![Preview](https://github.com/OceanLabs/InstagramPhotoPicker-Android/raw/master/screenshot.png)](https://vimeo.com/135676657)
